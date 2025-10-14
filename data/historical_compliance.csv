@@ -1,0 +1,7 @@
+control_id,control_name,framework,score,asset_class,last_audit
+C001,Access Control Review,ISO27001,82,Identity Management,2025-09-30
+C002,Patch Management,NIST CSF,65,Endpoint Security,2025-09-28
+C003,Firewall Configuration,PCI DSS,90,Network Security,2025-09-29
+C004,Data Retention Policy,GDPR,72,Data Governance,2025-09-30
+C005,Vulnerability Scanning,NIST CSF,58,Infrastructure Security,2025-09-25
+C006,Third-Party Risk Assessment,ISO27001,75,Vendor Management,2025-09-27
