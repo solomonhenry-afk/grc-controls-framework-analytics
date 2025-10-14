@@ -1,3 +1,10 @@
+asset_id,control_id,compliance_score,framework,asset_class,last_audit_date,status
+SRV-001,ISO-27001-A.9,95,ISO 27001,Server,2025-10-10,Compliant
+DB-002,GDPR-32,89,GDPR,Database,2025-10-09,Compliant
+WEB-003,NIST-CSF-DE,82,NIST CSF,Web Application,2025-10-08,Partial
+VM-004,PCI-11,76,PCI DSS,Virtual Machine,2025-10-06,Needs Review
+USR-005,ISO-27001-A.12,90,ISO 27001,User Account,2025-10-05,Compliant
+
 control_id,control_name,framework,score,asset_class,last_audit
 C001,Access Control Review,ISO27001,82,Identity Management,2025-09-30
 C002,Patch Management,NIST CSF,65,Endpoint Security,2025-09-28
